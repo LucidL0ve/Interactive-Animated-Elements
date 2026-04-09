@@ -60,7 +60,7 @@ footer {
 }
 
 .card img {
-  width: 100%;
+  width: fit-content;
   height: auto;
   object-fit: cover;
   border-radius: 8px;
